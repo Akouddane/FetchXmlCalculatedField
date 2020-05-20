@@ -11,4 +11,6 @@ Dynamics CRM Solution on **[dist](https://github.com/Akouddane/FetchXmlCalculate
 
 ![](https://github.com/Akouddane/FetchXmlCalculatedField/blob/master/docs/images/FetchXmlCalculatedField.gif)
 
+
+Configuration through "FetchXml Calculated Field" entity
 ![](https://github.com/Akouddane/FetchXmlCalculatedField/blob/master/docs/images/FetchXmlCalculatedField_OppCount.gif)
